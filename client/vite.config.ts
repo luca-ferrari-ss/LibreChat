@@ -64,8 +64,8 @@ export default defineConfig({
         maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
       },
       manifest: {
-        name: 'LibreChat',
-        short_name: 'LibreChat',
+        name: 'SombreroChat',
+        short_name: 'SombreroChat',
         start_url: '/',
         display: 'standalone',
         background_color: '#000000',
